@@ -1,0 +1,33 @@
+.app {
+  text-align: center;
+  margin: 5%;
+  min-height: 80dvh;
+  font-size: 2rem;
+  border-radius: 10rem 1rem;
+}
+
+.light-theme {
+  background-color: #f7a1a1;
+  color: blue;
+}
+
+.dark-theme {
+  background-color: #282626;
+  color: rgba(240, 248, 255, 0.622);
+}
+ul li {
+  list-style-type: none;
+}
+
+button{
+  border-radius: 5px;
+  padding: 1rem;
+  color: rgba(243, 243, 243, 0.533);
+  background-color: #2e2e2e77;
+  border-color: #525252b8;
+}
+
+.quiz-cont{
+  text-align: left;
+  padding: 0 20dvw;
+}
